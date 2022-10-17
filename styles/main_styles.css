@@ -1722,6 +1722,7 @@ section
 .newsletter_background
 {
 	position: absolute;
+	background-color: #efaf06;
 	top: 0;
 	left: 0;
 	width: 100%;
