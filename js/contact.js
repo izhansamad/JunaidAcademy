@@ -143,7 +143,7 @@ $(document).ready(function()
 
 	function initGoogleMap()
 	{
-		var myLatlng = new google.maps.LatLng(38.877434, -77.094214);
+		var myLatlng = new google.maps.LatLng(24.8848082, 67.1512673);
     	var mapOptions = 
     	{
     		center: myLatlng,
