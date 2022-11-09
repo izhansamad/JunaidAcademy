@@ -7,6 +7,17 @@
 	height: 90px;
 
 }
+.table{
+	margin-top: 20px;
+	color: black;
+	}
+.btn{
+	display: flex;
+}
+.enroll_btn{
+	margin: auto !important;
+	width: 220px !important;
+}
 
 .headerimg_container{
 	height: 450px;
